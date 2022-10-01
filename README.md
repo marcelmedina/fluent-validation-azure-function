@@ -1,2 +1,2 @@
-# fluent-validation-function
-Fluent Validation Function
+# fluent-validation-azure-function
+Fluent Validation Azure Function
